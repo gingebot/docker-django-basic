@@ -1,4 +1,4 @@
-#A example of a barebones docker image running django via django's development server
+# A example of a barebones docker image running django via django's development server
 
 The image can be built and run via:
 
